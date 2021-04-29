@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RameezRehman
 - 👀 I’m interested in text & code
 - 🌱 I’m currently learning Python, Data Science
-- 💞️ I’m looking to collaborate on Data Science Project
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 me rameeezzrehman@gmail.com
 
 <!---
